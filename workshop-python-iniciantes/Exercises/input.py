@@ -1,0 +1,13 @@
+matricula = input("Digite sua matrícula:")
+nome = input("Digite seu nome:")
+idade = int(input("Digite sua idade:"))
+telefone = input("Digite seu telefone:")
+email = input("Digite seu email:")
+curso = input("Digite seu curso:")
+
+print(matricula)
+print(nome)
+print(idade)
+print(telefone)
+print(email)
+print(curso)
